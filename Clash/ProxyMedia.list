@@ -358,12 +358,6 @@ DOMAIN-SUFFIX,pbs.org
 USER-AGENT,Pandora*
 DOMAIN-SUFFIX,pandora.com
 
-# Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
-
 # Qobuz
 DOMAIN-SUFFIX,qobuz.com
 

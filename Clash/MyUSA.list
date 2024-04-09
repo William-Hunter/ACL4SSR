@@ -2,10 +2,12 @@
 #AI
 DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,hume.ai
 
 
 #podcast
 DOMAIN-SUFFIX,cloudfront.net
+
 
 # TikTok
 DOMAIN-KEYWORD,tiktok

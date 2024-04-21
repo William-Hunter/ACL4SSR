@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,hume.ai
 
 #podcast
 DOMAIN-SUFFIX,cloudfront.net
-
+DOMAIN-SUFFIX,player.fm
 
 # TikTok
 DOMAIN-KEYWORD,tiktok

@@ -1,8 +1,8 @@
 
 
 
-DOMAIN-SFFIX,springboot.io
-DOMAIN-SFFIX,docker.com
+DOMAIN-SUFFIX,springboot.io
+DOMAIN-SUFFIX,docker.com
 
 #AI
 DOMAIN-SUFFIX,phind.com

@@ -1,8 +1,12 @@
 
 DOMAIN-SUFFIX,aliyuncs.com
 
+
 #email
 DOMAIN-SUFFIX,zoho.com
+
+DOMAIN-SUFFIX,edu.cn
+
 
 DOMAIN-SUFFIX,expedia.com
 

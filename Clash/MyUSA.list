@@ -5,12 +5,6 @@ DOMAIN-SUFFIX,springboot.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,okx.com
 
-#AI
-DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,hume.ai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-
 
 #podcast
 DOMAIN-SUFFIX,cloudfront.net

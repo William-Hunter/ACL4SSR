@@ -1,5 +1,7 @@
 
 
 #AI
-#DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,phind.com
 
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com

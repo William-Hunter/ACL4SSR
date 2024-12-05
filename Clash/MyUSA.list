@@ -3,7 +3,12 @@
 
 DOMAIN-SUFFIX,springboot.io
 DOMAIN-SUFFIX,docker.com
+
+
+# Coin
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-KEYWORD,okx
 
 
 #podcast

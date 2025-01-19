@@ -1,5 +1,9 @@
 
 
+## AI
+DOMAIN-SUFFIX,ollama.com
+DOMAIN-SUFFIX,ollama.ai
+
 
 DOMAIN-SUFFIX,springboot.io
 DOMAIN-SUFFIX,docker.com

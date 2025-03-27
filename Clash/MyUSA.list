@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,javbus.com
 
 
 
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.comc
+
+
 #Amazon Block China
 DOMAIN-SUFFIX,weatherspark.com
 

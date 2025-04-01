@@ -1,16 +1,14 @@
-<<<<<<< HEAD
 
 
+
+
+DOMAIN-SUFFIX,annas-archive.org
 
 DOMAIN-SUFFIX,colamanga.com
 
 DOMAIN-SUFFIX,matrix.org
 
 DOMAIN-SUFFIX,aicoin.com
-
-
-
-=======
 
 
 
@@ -31,5 +29,3 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-KEYWORD,docker
 
 
-
->>>>>>> 29d8da82738bc81eef5dde097153b55daedd8bb3

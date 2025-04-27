@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,btcfans.com
 
 DOMAIN-SUFFIX,huggingface.co
 
+DOMAIN-SUFFIX,docker.io
+
 DOMAIN-KEYWORD,docker
 
 

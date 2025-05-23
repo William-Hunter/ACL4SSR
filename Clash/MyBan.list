@@ -1,20 +1,20 @@
 
 ## PORN
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,yourporn.com
-DOMAIN-SUFFIX,xnxx.com
-DOMAIN-SUFFIX,xhamster.com
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,missav.ws
-DOMAIN-SUFFIX,javbus.com
-DOMAIN-SUFFIX,91porny.com
+#DOMAIN-SUFFIX,pornhub.com
+#DOMAIN-SUFFIX,yourporn.com
+#DOMAIN-SUFFIX,xnxx.com
+#DOMAIN-SUFFIX,xhamster.com
+#DOMAIN-SUFFIX,xvideos.com
+#DOMAIN-SUFFIX,missav.com
+#DOMAIN-SUFFIX,missav.ws
+#DOMAIN-SUFFIX,javbus.com
+#DOMAIN-SUFFIX,91porny.com
 
 
-DOMAIN-KEYWORD,xvideos
-DOMAIN-KEYWORD,91porn
-DOMAIN-KEYWORD,porny
-DOMAIN-KEYWORD,missav
+#DOMAIN-KEYWORD,xvideos
+#DOMAIN-KEYWORD,91porn
+#DOMAIN-KEYWORD,porny
+#DOMAIN-KEYWORD,missav
 
 
 

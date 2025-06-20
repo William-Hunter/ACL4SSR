@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,instagram.com
 
 # hotel
 DOMAIN-SUFFIX,hyatt.com
+DOMAIN-SUFFIX,amplitude.com
 DOMAIN,us.trip.com
 
 
@@ -26,10 +27,11 @@ DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,ollama.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,manus.im
+
 
 ##tech
 DOMAIN-SUFFIX,springboot.io
-DOMAIN-SUFFIX,docker.com
 
 
 # Coin

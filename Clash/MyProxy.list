@@ -1,22 +1,38 @@
 
 
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,hotelbdes.com
-DOMAIN-SUFFIX,coinglass.com
-DOMAIN-SUFFIX,etymonline.com
-DOMAIN-SUFFIX,xiaoya.pro
-DOMAIN-SUFFIX,f-droid.org
-DOMAIN-SUFFIX,getsession.org
-DOMAIN-SUFFIX,annas-archive.org
-DOMAIN-SUFFIX,colamanga.com
-DOMAIN-SUFFIX,matrix.org
-DOMAIN-SUFFIX,aicoin.com
+
+#Coin
 DOMAIN-SUFFIX,528btc.com
+DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,btcfans.com
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,coinglass.com
 
 
+#Tech
 DOMAIN-KEYWORD,docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,f-droid.org
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,travelgate.com
+DOMAIN-SUFFIX,travelgatex.com
 
+#IM
+DOMAIN-SUFFIX,getsession.org
+DOMAIN-SUFFIX,matrix.org
+
+##AI
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,huggingface.co
+
+
+DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,aarontalk.com
+DOMAIN-SUFFIX,bazzite.gg
+DOMAIN-SUFFIX,colamanga.com
+DOMAIN-SUFFIX,etymonline.com
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,liteapi.travel
+DOMAIN-SUFFIX,scrapingbee.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,xiaoya.pro
 

@@ -3,32 +3,10 @@
 DOMAIN-SUFFIX,instagram.com
 
 DOMAIN-SUFFIX,springboot.io
-DOMAIN-SUFFIX,docker.com
 
 
-# Coin
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-KEYWORD,okx
 
 
-#podcast
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,player.fm
-
-# TikTok
-DOMAIN-KEYWORD,tiktok
-USER-AGENT,TikTok*
-DOMAIN-KEYWORD,tiktokcdn
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
 
 # hotel
 DOMAIN-SUFFIX,hyatt.com
@@ -36,21 +14,13 @@ DOMAIN,us.trip.com
 
 
 
-
-
 DOMAIN-SUFFIX,authorize.net
 
-
-
 DOMAIN-KEYWORD,fastbull
-
 
 DOMAIN-SUFFIX,javbus.com
 
 
-
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.comc
 
 
 #Amazon Block China
@@ -60,6 +30,8 @@ DOMAIN-SUFFIX,weatherspark.com
 ## AI
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,ollama.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 
 
 DOMAIN-SUFFIX,springboot.io
@@ -72,6 +44,8 @@ DOMAIN-SUFFIX,okex.com
 DOMAIN-KEYWORD,okx
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,coinglass.com
+
+
 
 
 #podcast

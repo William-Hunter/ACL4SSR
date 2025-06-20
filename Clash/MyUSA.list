@@ -1,11 +1,8 @@
 
 
+##Porn
+DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,instagram.com
-
-DOMAIN-SUFFIX,springboot.io
-
-
-
 
 
 # hotel
@@ -17,9 +14,6 @@ DOMAIN,us.trip.com
 DOMAIN-SUFFIX,authorize.net
 
 DOMAIN-KEYWORD,fastbull
-
-DOMAIN-SUFFIX,javbus.com
-
 
 
 
@@ -33,7 +27,7 @@ DOMAIN-SUFFIX,ollama.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 
-
+##tech
 DOMAIN-SUFFIX,springboot.io
 DOMAIN-SUFFIX,docker.com
 
@@ -46,11 +40,10 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,coinglass.com
 
 
-
-
 #podcast
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,player.fm
+
 
 # TikTok
 DOMAIN-KEYWORD,tiktok
@@ -66,8 +59,6 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 
-# hotel
-DOMAIN-SUFFIX,hyatt.com
-DOMAIN,us.trip.com
+
 
 

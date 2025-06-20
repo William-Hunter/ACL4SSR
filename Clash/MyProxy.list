@@ -1,11 +1,19 @@
 
 
+##vpn
+DOMAIN-SUFFIX,aierport.com
+
+
+## hotel
+DOMAIN-SUFFIX,localtravelguide.com
+
 
 #Coin
 DOMAIN-SUFFIX,528btc.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,btcfans.com
 DOMAIN-SUFFIX,coinglass.com
+DOMAIN-SUFFIX,polymarket.com
 
 
 #Tech
@@ -15,14 +23,20 @@ DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,travelgate.com
 DOMAIN-SUFFIX,travelgatex.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,greasyfork.org
+
 
 #IM
 DOMAIN-SUFFIX,getsession.org
 DOMAIN-SUFFIX,matrix.org
 
+
 ##AI
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,huggingface.co
+
+
 
 
 DOMAIN-SUFFIX,annas-archive.org
@@ -32,7 +46,10 @@ DOMAIN-SUFFIX,colamanga.com
 DOMAIN-SUFFIX,etymonline.com
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,liteapi.travel
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,scrapingbee.com
+DOMAIN-SUFFIX,simonwillison.net
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,xiaoya.pro
 

@@ -1,5 +1,7 @@
 
 
+DOMAIN-SUFFIX,anthropic.com
+
 #AI
 DOMAIN-SUFFIX,phind.com
 
@@ -8,6 +10,3 @@ DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,pump.fun
 
-
-
-DOMAIN-SUFFIX,instagram.com

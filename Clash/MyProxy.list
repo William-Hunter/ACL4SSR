@@ -26,6 +26,11 @@ DOMAIN-SUFFIX,travelgatex.com
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,greasyfork.org
 
+##Game
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steampowered.com
+
+
 
 #IM
 DOMAIN-SUFFIX,getsession.org

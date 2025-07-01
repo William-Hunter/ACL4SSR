@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,bulianglin.com
 
 ## hotel
 DOMAIN-SUFFIX,localtravelguide.com
+DOMAIN-SUFFIX,staticontent.com
+DOMAIN-SUFFIX,e-agencias.com
 
 
 #Coin
@@ -32,7 +34,6 @@ DOMAIN-SUFFIX,greasyfork.org
 ##Game
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steampowered.com
-
 
 
 #IM

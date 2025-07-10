@@ -1,7 +1,5 @@
 
 
-
-
 ##video
 DOMAIN-SUFFIX,youtube.com
 
@@ -9,8 +7,14 @@ DOMAIN-SUFFIX,youtube.com
 
 ## PORN
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,yourporn.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-KEYWORD,missav
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,91porny.com
 
@@ -18,6 +22,5 @@ DOMAIN-SUFFIX,91porny.com
 DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,91porn
 DOMAIN-KEYWORD,porny
-DOMAIN-KEYWORD,missav
 
 

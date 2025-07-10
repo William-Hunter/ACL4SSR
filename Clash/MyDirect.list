@@ -1,14 +1,18 @@
 
 DOMAIN-SUFFIX,aliyuncs.com
 
+DOMAIN-SUFFIX,aichotels.cn
+
+DOMAIN-SUFFIX,aichotels.net.cn
 
 #email
 DOMAIN-SUFFIX,zoho.com
-
 DOMAIN-SUFFIX,edu.cn
 
 
-DOMAIN-SUFFIX,expedia.com
+##pay
+DOMAIN-SUFFIX,americanexpress.com
 
+#hotel
 DOMAIN-SUFFIX,didatravel.com
-
+DOMAIN-SUFFIX,hotelbeds.com

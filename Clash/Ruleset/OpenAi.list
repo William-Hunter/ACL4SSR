@@ -22,3 +22,13 @@ DOMAIN-SUFFIX,finchat.io
 DOMAIN-SUFFIX,beebee.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,columns.ai
+
+DOMAIN-SUFFIX,ollama.com
+DOMAIN-SUFFIX,ollama.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,manus.im
+DOMAIN,gemini.google.com
+
+DOMAIN-SUFFIX,claude.ai
+

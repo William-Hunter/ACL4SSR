@@ -337,7 +337,6 @@ payload:
   - DOMAIN-SUFFIX,olevodtv.com
 
   # OpenAi
-  - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com

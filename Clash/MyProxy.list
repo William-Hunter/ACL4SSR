@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,papadada.xyz
 
 DOMAIN-SUFFIX,decentraland.org
 
+IP-CIDR,43.155.111.169/0
+
+
 
 ##vpn
 DOMAIN-SUFFIX,aierport.com
@@ -25,6 +28,7 @@ DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,btcfans.com
 DOMAIN-SUFFIX,coinglass.com
 DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,decentraland.org
 
 
 #Tech

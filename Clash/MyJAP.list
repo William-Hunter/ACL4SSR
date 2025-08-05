@@ -1,9 +1,10 @@
 
 
-DOMAIN-SUFFIX,anthropic.com
+
 
 #AI
 DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,anthropic.com
 
 
 #Coin

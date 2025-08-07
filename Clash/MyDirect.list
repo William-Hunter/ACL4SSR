@@ -1,17 +1,27 @@
 
-DOMAIN-SUFFIX,aliyuncs.com
 
-DOMAIN-SUFFIX,aichotels.cn
 
-DOMAIN-SUFFIX,aichotels.net.cn
 
 #email
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,edu.cn
 
 
+# cloud
+DOMAIN-SUFFIX,aliyuncs.com
+
+
+
+# Gov
+DOMAIN-SUFFIX,tianyancha.com
+
 ##pay
 DOMAIN-SUFFIX,americanexpress.com
+
+# Amerilink
+DOMAIN-SUFFIX,aichotels.cn
+DOMAIN-SUFFIX,aichotels.net.cn
+
 
 #hotel
 DOMAIN-SUFFIX,didatravel.com

@@ -1,0 +1,648 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"date_list"
+			],
+			[
+				"room",
+				"roomType"
+			],
+			[
+				"d",
+				"difference"
+			],
+			[
+				"in",
+				"invert()"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tr",
+				"transmission"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Clash/config/ACL4SSR_Online_Full.ini",
+			"settings":
+			{
+				"buffer_size": 6432,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAEYKAAAAAAAARwoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgoAAAAAAABGCgAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "Tool/SwitchyOmega/Proxy SwitchyOmega - Chrome 网上应用店.url",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "Clash/MyProxy.list",
+			"settings":
+			{
+				"buffer_size": 1306,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"for",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"base",
+				"CoolBase64: Decode Selected Text from Base64"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"format",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"fold",
+				"Code Folding: Fold All"
+			],
+			[
+				"form",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"markdown",
+				"Markdown HTML Preview"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"in",
+				"IndentX: Indent"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fdor",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"base64",
+				"CoolBase64: Decode Selected Text from Base64"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"x",
+				"Indent XML"
+			],
+			[
+				"time",
+				"Convert a timestamp in date"
+			],
+			[
+				"fo",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"timesta",
+				"Convert a timestamp in date"
+			],
+			[
+				"timstamp",
+				"Convert a timestamp in date"
+			],
+			[
+				"times",
+				"Convert a timestamp in date"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"xml ",
+				"Pretty JSON: json2xml"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"foamt",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"forma",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"fomat",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"Package Control: remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"comp",
+				"Compare with..."
+			],
+			[
+				"f",
+				"Format: Javascript"
+			],
+			[
+				"coma",
+				"Compare with..."
+			],
+			[
+				"markdo",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 376.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/workspace/ACL4SSR",
+		"/D/workspace/ACL4SSR/Clash",
+		"/D/workspace/ACL4SSR/Clash/config",
+		"/D/workspace/ACL4SSR/Tool",
+		"/D/workspace/ACL4SSR/Tool/SwitchyOmega"
+	],
+	"file_history":
+	[
+		"/D/workspace/ACL4SSR/Tool/SwitchyOmega/Proxy-SwitchyOmega_v2.5.20.crx",
+		"/D/workspace/ACL4SSR/Clash/ChinaIp.list",
+		"/D/workspace/ACL4SSR/Clash/Ruleset/CN.list",
+		"/D/workspace/ACL4SSR/Clash/Ruleset/Deezer.list",
+		"/D/workspace/ACL4SSR/Clash/Providers/ProxyMedia.yaml",
+		"/D/workspace/ACL4SSR/Clash/config/ACL4SSR_NoApple.ini",
+		"/D/workspace/ACL4SSR/Clash/config/ACL4SSR_Mini.ini",
+		"/D/workspace/ACL4SSR/Clash/config/ACL4SSR_AdblockPlus.ini",
+		"/D/Amerilink_Obsidian/note.sublime-project",
+		"/D/Amerilink_Obsidian/如家/早餐测试.json",
+		"/D/Amerilink_Obsidian/如家/早餐验价.json",
+		"/D/Amerilink_Obsidian/如家/早餐订单测试.json",
+		"/D/Amerilink_Obsidian/如家/早餐验价,含餐.json",
+		"/D/Amerilink_Obsidian/Ctrip/ctrip_all_hotel_list_JP.csv",
+		"/D/Amerilink_Obsidian/Ctrip/curl",
+		"/D/Documents/xwechat_files/wxid_cxkbokn7jw1i22_c7a3/msg/file/2025-08/logback-spring.xml",
+		"/D/Amerilink_Obsidian/RedWood/报价案例.xml",
+		"/D/Amerilink_Obsidian/RedWood/产品静态案例.xml",
+		"/D/Amerilink_Obsidian/RedWood/红树林下单记录.md",
+		"/Z/Keep/供应商/Rakuten/下单记录.txt",
+		"/D/static/link_keeper.html",
+		"/D/static/links.html",
+		"/D/Desktop/noscan/frpc_hk.ini",
+		"/D/sync/BTSync/Script/docker/matrix.sh",
+		"/D/Desktop/美团房型.json",
+		"/D/workspace/aicsuppliers/korean_hotel.txt",
+		"/D/Desktop/下单异常.json",
+		"/Z/opt/workspace/erp/pom.xml",
+		"/Z/opt/workspace/erp/yudao-module-report/pom.xml",
+		"/Z/opt/workspace/erp/yudao-dependencies/pom.xml",
+		"/D/Downloads/connector_3b4a26b8-459a-4b7c-b7f2-8dcae4cb38bf.xml",
+		"/Z/Keep/供应商/Rakuten/Text File.txt",
+		"/Z/Keep/供应商/Ctrip/cencel.log",
+		"/Z/Keep/供应商/Ctrip/Ctrip下单1.log",
+		"/Z/Keep/Clash/Text File.txt",
+		"/Z/Keep/新建文本文档.txt",
+		"/Z/Keep/wikipedia",
+		"/D/Desktop/Ctrip下单1.log",
+		"/D/sync/Keep/detail.xml",
+		"/D/sync/Keep/default.yaml",
+		"/Z/新建文件夹/新建文本文档.txt",
+		"/D/Desktop/ctrip要求.txt",
+		"/D/sync/Obsidian/.git/config",
+		"/D/Desktop/cencel.log",
+		"/D/Desktop/retrieveDetail.log",
+		"/D/Downloads/_aicjava-8080_logs (3).txt",
+		"/D/Documents/xwechat_files/wxid_cxkbokn7jw1i22_c7a3/msg/file/2025-07/报错信息文本.txt",
+		"/D/Desktop/_aicjava-8080_logs.txt",
+		"/D/sync/办公室/Clash_new_devil_gh.txt",
+		"/D/sync/办公室/Clash_new_devil_config.txt",
+		"/D/Downloads/_aicjava-9090_logs.txt",
+		"/D/Downloads/_aicjava-8080_logs (1).txt",
+		"/?192.168.3.229/MyShare/sync/Obsidian/免疫力.md",
+		"/Z/sync/Obsidian/Gadgets.md",
+		"/D/Desktop/eeeee.html",
+		"/D/Desktop/22222.txt",
+		"/D/Desktop/14262239749.log",
+		"/C/Users/Wilson/AppData/Local/Temp/7zO87AFA0CD/14262233697.log",
+		"/D/Desktop/14262233697.log",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/sync/Keep/aicjava-ai/ai提问-查价.md",
+		"/D/Desktop/路由器刷机/clash-verge.txt",
+		"/D/sync/Keep/供应商/石基/PermierInn/问题/PINLONPAS_general.xml",
+		"/D/Desktop/general.xml",
+		"/D/Desktop/detail.xml",
+		"/D/Obsidian/.git/config",
+		"/D/Desktop/news.bat",
+		"/D/Desktop/新建文本文档.txt",
+		"/D/Desktop/PINLONPAS.log",
+		"/D/script/破解导航猫.bat",
+		"/D/Desktop/440303458.json",
+		"/D/Desktop/440364304.json",
+		"/D/Desktop/440520728.json",
+		"/D/Desktop/441374610.json",
+		"/D/Desktop/442908716.json",
+		"/D/Desktop/444112268.json",
+		"/D/Desktop/442908716",
+		"/D/Downloads/_agoda-java_logs.txt",
+		"/D/Downloads/_agoda-java_logs (2).txt",
+		"/D/Downloads/Detail.xml",
+		"/D/Downloads/_aicjava-8080_logs (4).txt",
+		"/D/Desktop/nuitee_response.json",
+		"/D/Downloads/JetBrains-2025-po-jie-bao/jetbra/使用必看-2.txt",
+		"/D/Downloads/JetBrains-2025-po-jie-bao/jetbra/使用必看-1.txt",
+		"/D/Downloads/_aicjava-8080_logs.txt",
+		"/D/Downloads/_aicjava-8080_logs (2).txt",
+		"/D/Desktop/_aicjava-8080_logs (1).txt",
+		"/D/Desktop/_aicjava-8080_logs (2).txt",
+		"/D/Desktop/_erp-48080_logs.txt",
+		"/D/Desktop/test_group.json",
+		"/D/sync/APP/exe/IT/Navicat激活/更新Navicat16.2.3教程.txt",
+		"/D/Desktop/路由器刷机/_aicjava-8080_logs.txt",
+		"/D/Desktop/common_supplier_hotel_room_type.sql",
+		"/D/Desktop/通用采购同步.sql",
+		"/D/Documents/xwechat_files/wxid_cxkbokn7jw1i22_c7a3/msg/file/2025-04/prebook error.txt",
+		"/D/Documents/xwechat_files/wxid_cxkbokn7jw1i22_c7a3/msg/file/2025-04/request.txt",
+		"/D/Documents/xwechat_files/wxid_cxkbokn7jw1i22_c7a3/msg/file/2025-04/api_public_return.json",
+		"/D/Downloads/_supplier-content1_logs.txt",
+		"/D/sync/BTSync/Script/fehelper.txt",
+		"/D/Desktop/py/loop_request_homeinn.py",
+		"/D/Desktop/py/loop_request_jinjiang.py",
+		"/D/Desktop/py/loop_request_aicjava.py",
+		"/D/Downloads/_bigcache_pull_18082_logs.txt",
+		"/D/Downloads/_aicjava-8080_logs (15).txt",
+		"/D/Downloads/_aicjava-8080_logs (22).txt",
+		"/D/Downloads/_aicjava-8080_logs (21).txt",
+		"/D/Downloads/_aicjava-8080_logs (16).txt",
+		"/D/Downloads/_aicjava-8080_logs (17).txt",
+		"/D/Downloads/_aicjava-8080_logs (18).txt",
+		"/D/Downloads/_aicjava-8080_logs (19).txt",
+		"/D/Downloads/_aicjava-8080_logs (20).txt",
+		"/D/Downloads/_aicjava-9090_logs (1).txt",
+		"/D/Downloads/_aicjava-9090_logs (2).txt",
+		"/D/Desktop/锦江报文.txt",
+		"/D/Desktop/dawda.html",
+		"/D/Desktop/request.xml",
+		"/D/Documents/WeChat Files/wxid_cxkbokn7jw1i22/FileStorage/File/2025-03/酒店静态请求日志.xml",
+		"/D/Downloads/_erp-48080_logs.txt",
+		"/D/workspace/erp/yudao-module-system/yudao-module-system-biz/src/main/java/cn/iocoder/yudao/module/system/service/user/AdminUserService.java",
+		"/D/sync/办公室/Aicjava/供应商联系方式.txt",
+		"/D/Downloads/_purchaser-8079_logs.txt",
+		"/D/Downloads/_purchaser-8079_logs (1).txt",
+		"/D/Downloads/_purchaser-8079_logs (2).txt",
+		"/D/Downloads/_purchaser-8079_logs (3).txt",
+		"/D/Downloads/_purchaser-8079_logs (4).txt",
+		"/D/Downloads/_purchaser-8079_logs (5).txt",
+		"/D/Downloads/_purchaser-8079_logs (6).txt",
+		"/D/Downloads/_purchaser-8079_logs (7).txt"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 283.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Clash/config/ACL4SSR_Online_Full.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2045,
+								2045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Tool/SwitchyOmega/Proxy SwitchyOmega - Chrome 网上应用店.url",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Clash/MyProxy.list",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 190.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"application",
+				"framework\\src\\main\\resources\\application.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

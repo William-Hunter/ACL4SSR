@@ -11,6 +11,11 @@ DOMAIN-SUFFIX,amplitude.com
 DOMAIN,us.trip.com
 
 
+
+
+DOMAIN-SUFFIX,dious.cc
+
+
 #Amazon Block China
 DOMAIN-SUFFIX,weatherspark.com
 

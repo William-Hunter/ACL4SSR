@@ -1,9 +1,6 @@
 payload:
   # 内容：内容：AI平台-国外
   # 数量：43条
-  - DOMAIN-KEYWORD,anthropic
-  - DOMAIN-KEYWORD,claude
-  - DOMAIN-KEYWORD,openai
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
   - DOMAIN,api.githubcopilot.com
@@ -34,4 +31,3 @@ payload:
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net

@@ -1,5 +1,9 @@
 
 
+## adobe
+DOMAIN-SUFFIX,lcs-cops.adobe.io
+
+
 #email
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,edu.cn
@@ -23,3 +27,4 @@ DOMAIN-SUFFIX,aichotels.net.cn
 #hotel
 DOMAIN-SUFFIX,didatravel.com
 DOMAIN-SUFFIX,hotelbeds.com
+

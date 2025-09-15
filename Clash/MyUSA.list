@@ -24,13 +24,6 @@ DOMAIN-SUFFIX,springboot.io
 DOMAIN-SUFFIX,authorize.net
 
 
-# Coin
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-KEYWORD,okx
-DOMAIN-SUFFIX,binance.com
-DOMAIN-KEYWORD,binance
-
 
 #podcast
 DOMAIN-SUFFIX,cloudfront.net

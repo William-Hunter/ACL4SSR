@@ -1,6 +1,5 @@
 
 
-DOMAIN-SUFFIX,agoda.net
 
 DOMAIN-SUFFIX,esteri.it
 
@@ -33,7 +32,10 @@ DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,localtravelguide.com
 DOMAIN-SUFFIX,staticontent.com
 DOMAIN-SUFFIX,e-agencias.com
+
 DOMAIN-SUFFIX,agoda.com
+DOMAIN-SUFFIX,agoda.net
+
 DOMAIN-SUFFIX,liteapi.travel
 DOMAIN-SUFFIX,travelgate.com
 DOMAIN-SUFFIX,travelgatex.com

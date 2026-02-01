@@ -21,19 +21,15 @@ DOMAIN,us.trip.com
 
 
 
+DOMAIN-SUFFIX,dious.cc
+
+
 #Amazon Block China
 DOMAIN-SUFFIX,weatherspark.com
 
 ##tech
 DOMAIN-SUFFIX,springboot.io
 DOMAIN-SUFFIX,authorize.net
-
-
-# Coin
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-KEYWORD,okx
-DOMAIN-SUFFIX,binance.com
 
 
 

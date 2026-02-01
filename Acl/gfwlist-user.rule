@@ -4951,6 +4951,7 @@
 .wqyd.org remoteproxy
 .wrchina.org remoteproxy
 .wretch.cc remoteproxy
+.writer.zoho.com remoteproxy
 .wsgzao.github.io remoteproxy
 .wsj.com remoteproxy
 .wsj.net remoteproxy
@@ -5623,7 +5624,6 @@
 
 # Miui 小米
 .a.market.xiaomi.com reject
-.wtradv.market.xiaomi.com reject
 .abtest.mistat.xiaomi.com reject
 .data.mistat.xiaomi.com reject
 .ad.xiaomi.com reject
@@ -6400,7 +6400,6 @@
 .mobclix.com reject
 .mobgi.com reject
 .mobisage.cn reject
-.mobvista.com reject
 .mopub.com reject
 .moquanad.com reject
 .mpush.cn reject
@@ -6410,7 +6409,6 @@
 .networkbench.com reject
 .newrelic.com reject
 .ninebox.cn reject
-.ntalker.com reject
 .nylalobghyhirgh.com reject
 .o2omobi.com reject
 .oadz.com reject

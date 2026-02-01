@@ -1,6 +1,22 @@
 
+
+
+DOMAIN-SUFFIX,esteri.it
+
+DOMAIN-SUFFIX,google.com
+
+DOMAIN-SUFFIX,pionex.com
+
+DOMAIN-SUFFIX,osl.com
+
+DOMAIN-SUFFIX,ivnoblog.com
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,speechcentral.net
+
+
+## mine
 DOMAIN-SUFFIX,papadada.xyz
-IP-CIDR,43.155.111.169/0
+#IP-CIDR,43.155.111.169/0
 
 
 ##vpn
@@ -16,7 +32,10 @@ DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,localtravelguide.com
 DOMAIN-SUFFIX,staticontent.com
 DOMAIN-SUFFIX,e-agencias.com
+
 DOMAIN-SUFFIX,agoda.com
+DOMAIN-SUFFIX,agoda.net
+
 DOMAIN-SUFFIX,liteapi.travel
 DOMAIN-SUFFIX,travelgate.com
 DOMAIN-SUFFIX,travelgatex.com

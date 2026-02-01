@@ -3666,7 +3666,7 @@ payload:
   - DOMAIN-SUFFIX,mh4u.org
   - DOMAIN-SUFFIX,mhradio.org
   - DOMAIN-SUFFIX,michaelmarketl.com
-  - DOMAIN-SUFFIX,microsoft.com
+  # - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microvpn.com
   - DOMAIN-SUFFIX,middle-way.net
   - DOMAIN-SUFFIX,mihk.hk

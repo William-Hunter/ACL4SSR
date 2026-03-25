@@ -2,11 +2,13 @@
 
 
 
-#DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,microsoft.com
 
-## adobe
-#DOMAIN-SUFFIX,lcs-cops.adobe.io
+DOMAIN-SUFFIX,immigration.gov.tw
 
+DOMAIN-SUFFIX,moi.gov.tw
+
+DOMAIN-SUFFIX,doubao.com
 
 #email
 DOMAIN-SUFFIX,zoho.com

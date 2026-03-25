@@ -1,6 +1,14 @@
 
-DOMAIN-SUFFIX,life4tech.com
 
+
+
+DOMAIN-SUFFIX,onmicrosoft.com
+
+
+#Coin
+DOMAIN-SUFFIX,polymarket.com
+
+DOMAIN-SUFFIX,life4tech.com
 
 # google
 DOMAIN,gemini.google.com

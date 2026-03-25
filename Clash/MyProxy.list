@@ -1,9 +1,29 @@
 
 
 
+DOMAIN-SUFFIX,rss.ink
 
-IP-CIDR,43.155.111.169/0
+DOMAIN-SUFFIX,coincap.io
 
+DOMAIN-SUFFIX,mgbedbank.com
+
+DOMAIN-SUFFIX,packagecontrol.io
+
+DOMAIN-SUFFIX,cjting.me
+
+DOMAIN-SUFFIX,worldbank.org
+
+
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.net
+
+DOMAIN-SUFFIX,trae.ai
+
+DOMAIN-SUFFIX,visajx.com
+
+DOMAIN-SUFFIX,offvisa.com
+
+DOMAIN-SUFFIX,chartbeat.com
 
 DOMAIN-SUFFIX,esteri.it
 
@@ -50,7 +70,7 @@ DOMAIN-SUFFIX,528btc.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,btcfans.com
 DOMAIN-SUFFIX,coinglass.com
-DOMAIN-SUFFIX,polymarket.com
+
 DOMAIN-SUFFIX,decentraland.org
 
 

@@ -1,7 +1,9 @@
 
 
 
-IP-CIDR,43.155.111.169/0
+## mine
+DOMAIN-SUFFIX,papadada.xyz
+IP-CIDR,43.155.111.169/32
 
 
 DOMAIN-SUFFIX,xiaohongshu.com

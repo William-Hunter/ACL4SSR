@@ -1,8 +1,7 @@
 
 
 
-
-
+DOMAIN-SUFFIX,containerd.io
 
 DOMAIN-SUFFIX,vsassets.io
 
@@ -15,14 +14,11 @@ DOMAIN-SUFFIX,rss.ink
 
 DOMAIN-SUFFIX,coincap.io
 
-DOMAIN-SUFFIX,mgbedbank.com
-
 DOMAIN-SUFFIX,packagecontrol.io
 
 DOMAIN-SUFFIX,cjting.me
 
 DOMAIN-SUFFIX,worldbank.org
-
 
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
@@ -48,28 +44,13 @@ DOMAIN-SUFFIX,suno.com
 DOMAIN-SUFFIX,speechcentral.net
 
 
-
-
 ##vpn
 DOMAIN-SUFFIX,aierport.com
 DOMAIN-SUFFIX,bulianglin.com
 
-
 ## news
 DOMAIN-SUFFIX,aljazeera.net
 
-
-## hotel
-DOMAIN-SUFFIX,localtravelguide.com
-DOMAIN-SUFFIX,staticontent.com
-DOMAIN-SUFFIX,e-agencias.com
-
-DOMAIN-SUFFIX,agoda.com
-DOMAIN-SUFFIX,agoda.net
-
-DOMAIN-SUFFIX,liteapi.travel
-DOMAIN-SUFFIX,travelgate.com
-DOMAIN-SUFFIX,travelgatex.com
 
 
 #Coin

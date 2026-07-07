@@ -3,7 +3,6 @@
 
 # OpenAi
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
@@ -45,6 +44,7 @@ DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
 
